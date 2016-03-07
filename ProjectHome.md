@@ -1,0 +1,3 @@
+O objetivo principal deste plugin é substituir completamente o uso de alertas e confirmações padrões. Possui como dependências o framework javascript jQuery, além de sua extensão para interfaces caso você queira habilitar a opção de arrastar a janela. O m2brDialog funciona baseado em eventos do usuário no sistema, como cliques, duplo-cliques, mudança de conteúdo ou carregamento da página. Seu visual é totalmente customizável, todo baseado em CSS — o tema padrão utiliza o set de ícones Tango, mas nada impede que você implemente suas próprias imagens.
+
+http://www.daviferreira.com/blog/2008/11/20/esqueca-as-funcoes-javascript-alert-e-confirm.html
